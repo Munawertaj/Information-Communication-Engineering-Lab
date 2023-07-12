@@ -114,24 +114,3 @@ endfor
 
 demodulation=abs(demodulation);
 disp(demodulation);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
